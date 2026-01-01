@@ -8,7 +8,7 @@ LumiTix 是一套現代化、前後端分離的活動票務管理系統。
 ---
 ### 前端網址與測試帳號資訊
 
-[前端網址](https://yyl0911.github.io/LumiTix-vite/)  [前端GitHub](https://github.com/YYL0911/LumiTix-vite)
+[前端GitHub](https://github.com/YYL0911/LumiTix-vite)
 | 測試帳號     | 密碼 | 身份        |
 |------------------|----------|------------------------------------------|
 | test1@gmail.com   | Abc123456     | 使用者 |
